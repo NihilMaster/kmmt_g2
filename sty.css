@@ -4,9 +4,14 @@
 
 .boost{
     padding: 10px;
-    background-color: rgb(210, 205, 218);
+    background-color: rgb(215, 212, 220);
 }
 
 body{
     background-color: darkgrey;
+}
+
+.DIVino{
+    padding: 5px;
+    background-color: floralwhite;
 }
