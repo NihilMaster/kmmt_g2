@@ -1,3 +1,12 @@
 .espacio{
     margin: 30px;
 }
+
+.boost{
+    padding: 10px;
+    background-color: rgb(210, 205, 218);
+}
+
+body{
+    background-color: darkgrey;
+}
