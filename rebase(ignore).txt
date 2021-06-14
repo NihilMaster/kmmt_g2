@@ -1,0 +1,44 @@
+$ git log --oneline --graph --decorate --all
+
+PRE_REBASE
+* 3e7964c (HEAD -> master) 13k final footer
+* 77a2f4b 12k img footer
+* 458c5b4 11k footer
+* 92fce88 10k danger color
+* 47511f5 9k fix numeral index color
+* 66b6c24 (origin/master) 8k fix colors index of table
+*   2ec56fa Merge branch 'fix-txt'
+|\
+| * 00c2d6c (fix-txt) 7k traducción
+* | ea3f4a6 7k vertical a horizontal
+|/
+* 5305afc 6k fix color format
+* f8cf3b8 Create README.md
+* 1cd2d7a 5k final fix color table
+*   0fe6290 Merge branch 'fix-colorbackground'
+|\
+| * cb8098a 3k refix color
+| * 349003d 2k fix color
+* | 3088ffc 4k fix color tables
+|/
+* 9de2d9f Primer intento
+
+
+POST_REBASE
+* 67a9598 (HEAD -> master) 9k-13k final footer y cambios de color
+* 66b6c24 (origin/master) 8k fix colors index of table
+*   2ec56fa Merge branch 'fix-txt'
+|\
+| * 00c2d6c (fix-txt) 7k traducción
+* | ea3f4a6 7k vertical a horizontal
+|/
+* 5305afc 6k fix color format
+* f8cf3b8 Create README.md
+* 1cd2d7a 5k final fix color table
+*   0fe6290 Merge branch 'fix-colorbackground'
+|\
+| * cb8098a 3k refix color
+| * 349003d 2k fix color
+* | 3088ffc 4k fix color tables
+|/
+* 9de2d9f Primer intento
